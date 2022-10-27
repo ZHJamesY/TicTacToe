@@ -1,2 +1,4 @@
 # TicTacToe
-Tic Tac Toe console game.
+
+This is aTic Tac Toe console game.\
+Have fun !
